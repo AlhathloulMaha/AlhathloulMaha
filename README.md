@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlhathloulMaha
-- 👀 I’m interested in mobile developer and AI
-- 🌱 I’m currently learning SwiftUI & Machine Learning!
-- 💞️ I’m looking to collaborate on making applications
+- 👀 I’m interested in Deep Learning, Generative AI and Computer Vission. 
+- 🌱 I’m currently learning GenAI!
+- 💞️ I’m looking to collaborate on making models that changes the world.
 - 📫 Linkedin account: https://www.linkedin.com/in/maha-fahad-alhathloul-687b08216/
 
 <!---
